@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:errorEnabled="true"
+        android:hint="Tên loại sách">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fff"
+
+            android:id="@+id/ed_dialog_ten_loai_sach"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/btn_save_dialog_loai_sach"
+            android:text="Lưu"
+            android:layout_margin="8dp"
+            android:backgroundTint="#AEABAB"
+            android:textColor="#000"
+            android:drawableLeft="@drawable/ic_baseline_save_24"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/btn_cancel_dialog_loai_sach"
+            android:text="Hủy"
+            android:layout_margin="8dp"
+            android:backgroundTint="#AEABAB"
+            android:textColor="#000"
+            android:drawableLeft="@drawable/ic_baseline_cancel_24"/>
+    </LinearLayout>
+</LinearLayout>

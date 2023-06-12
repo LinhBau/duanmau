@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mã loại: "
+            android:id="@+id/tv1"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/tv_ma_loai_sach"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/img_del_loai_sach"
+            android:layout_toRightOf="@id/tv1"
+            android:paddingLeft="8dp"
+            android:text="1"
+            android:textSize="22sp" />
+
+        <TextView
+            android:textColor="#000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tên loại: "
+            android:textSize="28sp"
+            android:layout_below="@id/tv1"
+            android:id="@+id/tv2" />
+
+        <TextView
+            android:textColor="#000"
+            android:id="@+id/tv_ten_loai_sach"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_ma_loai_sach"
+            android:layout_toLeftOf="@id/img_del_loai_sach"
+            android:layout_toRightOf="@id/tv2"
+            android:text="IT"
+            android:textSize="28sp"
+            android:paddingLeft="8dp"/>
+
+        <ImageView
+            android:id="@+id/img_del_loai_sach"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_baseline_delete_forever_24" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

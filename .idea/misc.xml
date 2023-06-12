@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/activity_ds_nguoi_dung.xml" value="0.176" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/activity_main.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/activity_man_hinh_dang_nhap.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/fragment_loai_sach.xml" value="0.2418478260869565" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/fragment_sach.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/fragment_them_nguoi_dung.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/layout_dialog_loai_sach.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/layout_dialog_phieu_muon.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/layout_dialog_sach.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/layout_item_loai_sach.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/layout_item_nguoi_dung.xml" value="0.2" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/layout_item_phieu_muon.xml" value="0.264" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/layout_item_sach.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/layout_item_top_10.xml" value="0.176" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/layout/layout_spinner_loai_sach.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/menu/menu_nav.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau - Copy/app/src/main/res/menu/menu_search.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/activity_man_hinh_dang_nhap.xml" value="0.176" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/fragment_loai_sach.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/fragment_phieu_muon.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/fragment_sach.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/fragment_thanh_vien.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/fragment_them_nguoi_dung.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/fragment_top10.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/layout_header_nav.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/layout/layout_item_top_10.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/menu/menu_nav.xml" value="0.1" />
+        <entry key="..\:/Users/BauDz/AndroidStudioProjects/DuAnMau2/app/src/main/res/menu/menu_search.xml" value="0.13240740740740742" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
